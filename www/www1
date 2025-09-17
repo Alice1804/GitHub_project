@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/Alice1804/GitHub_project.git
+git remote
+git push -u origin master
+git push
+git pull
+
