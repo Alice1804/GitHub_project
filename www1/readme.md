@@ -12,8 +12,9 @@
 4. Файл .gitignore
 5. Файл README.md
 
+<p align="center">
+  <img width="400" height="250" src="https://github.com/Alice1804/GitHub_project/www1/master/picture/capibara.png">
+</p>
 
-  <img width="400" height="250" src="https://github.com/Alice1804/GitHub_project/edit/master/www1/picture.html">
-  
 
 
