@@ -1,6 +1,6 @@
 # Репозиторий принадлежит разработчику ***Ребрий А.Е.***
 ## Он содержит следующие файлы
-## *Папка www1*
+### *Папка www1*
 Эта папка содержит все файлы этого проекта.
 ### *Структура:*
 1. Папка forum - файлы папки:
@@ -12,8 +12,8 @@
 4. Файл .gitignore
 5. Файл README.md
 
-<p align="center">
-  <img width="400" height="250" src="https://github.com/Alice1804/GitHub_project/edit/master/www1/picture/capibara.png">
-</p>
+
+  <img width="400" height="250" src="https://github.com/Alice1804/GitHub_project/edit/master/www1/picture.html">
   
+
 
