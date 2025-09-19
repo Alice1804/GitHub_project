@@ -13,8 +13,9 @@
 5. Файл README.md
 
 <p align="center">
-  <img width="400" height="250" src="https://github.com/Alice1804/GitHub_project/www1/master/picture/capibara.png">
+  <img width="400" height="250" src="https://github.com/Alice1804/GitHub_project/www1/picture/capibara.png">
 </p>
+
 
 
 
